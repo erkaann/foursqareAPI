@@ -13,4 +13,4 @@ python home.py
 
 
 *Paste to browser*
-http://127.0.0.1:5000/foursquare?latitude=41.096088&longitude=29.003940
+http://127.0.0.1:5000/foursquare?latitude=41.094466&longitude=29.003750
